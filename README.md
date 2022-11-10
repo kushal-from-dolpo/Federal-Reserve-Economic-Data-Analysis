@@ -18,3 +18,6 @@ To use:
 4. Run the main.py file using 'python /path/to/directory/main.py'
 5. Navigate your browser to the ip address of the machine (perhaps 127.0.0.1 or other if installed remotely) on port 8050.
 6. Enjoy!
+
+
+![](https://github.com/kushal-from-dolpo/Federal-Reserve-Economic-Data-Analysis/blob/main/github_image.gif)
